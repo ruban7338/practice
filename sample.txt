@@ -2,4 +2,6 @@ changes from dum
 git conflict checking
 changes from 1 dum
 
+dum changes
+
 
