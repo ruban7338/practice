@@ -10,5 +10,9 @@ branch4
 
 
 dum changes
+<<<<<<< HEAD
+=======
+dum1 changes
+>>>>>>> dum1
 
 
