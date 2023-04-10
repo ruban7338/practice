@@ -1,7 +1,8 @@
 changes from dum
 git conflict checking
-change from dum1
 changes from 1 dum
 
+dum changes
+dum1 changes
 
 
