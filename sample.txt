@@ -1,7 +1,20 @@
 changes from dum
 git conflict checking
 changes from 1 dum
+branch3
+branch 3 second commit
+branch4
 
 dum changes
+dum1 changes
+
+
+
+dum changes
+
+
+
+dum changes
+dum for dum
 
 
