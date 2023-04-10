@@ -5,12 +5,12 @@ changes from 1 dum
 branch3
 branch 3 second commit
 branch4
-<<<<<<< HEAD
 
 
 
-=======
->>>>>>> dum
+
+ dum
+ dum
 
 dum changes
 dum1 changes
