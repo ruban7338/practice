@@ -3,5 +3,9 @@ git conflict checking
 changes from 1 dum
 
 dum changes
+<<<<<<< HEAD
+=======
+dum1 changes
+>>>>>>> dum1
 
 
